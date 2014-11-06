@@ -20,6 +20,10 @@
       <version>1.4.2-SNAPSHOT</version>
       <version>1.4.3-SNAPSHOT</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20141106074807</lastUpdated>
+=======
+    <lastUpdated>20141106072833</lastUpdated>
+>>>>>>> 4ad6dec15dec69d945e2c770d316ca09d57dff90
   </versioning>
 </metadata>
