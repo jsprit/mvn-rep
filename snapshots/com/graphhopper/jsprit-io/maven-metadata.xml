@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.graphhopper</groupId>
+  <artifactId>jsprit-io</artifactId>
+  <versioning>
+    <versions>
+      <version>1.6.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160817114109</lastUpdated>
+  </versioning>
+</metadata>
