@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.graphhopper</groupId>
+  <artifactId>jsprit-core</artifactId>
+  <version>1.7.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170630.070353</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170630070353</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.7.3-20170630.070353-1</value>
+        <updated>20170630070353</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.7.3-20170630.070353-1</value>
+        <updated>20170630070353</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
